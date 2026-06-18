@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "customerName": "Rajesh Kumar",
+        "ritualName": "Ganesh Homam",
+        "date": "08 Jun 2026",
+        "time": "10:00 AM",
+        "status": "Pending",
+        "amount": 4600
+    },
+    {
+        "id": 2,
+        "customerName": "Anita Devi",
+        "ritualName": "Lakshmi Pooja",
+        "date": "09 Jun 2026",
+        "time": "09:30 AM",
+        "status": "Confirmed",
+        "amount": 3200
+    },
+    {
+        "id": 3,
+        "customerName": "Suresh Sharma",
+        "ritualName": "Satyanarayana Pooja",
+        "date": "11 Jun 2026",
+        "time": "08:00 AM",
+        "status": "Completed",
+        "amount": 5200
+    },
+    {
+        "id": 4,
+        "customerName": "Akshay",
+        "ritualName": "Navagraha Pooja",
+        "date": "15 Jun",
+        "time": "8:30 AM",
+        "status": "Pending",
+        "amount": 7800
+    },
+
+ {
+        "id": 5,
+        "customerName": "Dinesh",
+        "ritualName": "Ayapaswamy Pooja",
+        "date": "17 Jun",
+        "time": "8:40 AM",
+        "status": "Pending",
+        "amount": 9800
+    }
+]
